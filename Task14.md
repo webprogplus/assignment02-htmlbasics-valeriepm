@@ -13,7 +13,7 @@ This assignment introduces the following elements. You should use every one of t
 Reproduce this webpage as **tertiary-01.html**: [Tertiary No. 1](pdfs/tertiary-01.pdf)
 
 The ordered list is navigation, so indicate that. In that navigation…
-
+ 
 - the word “Chartreuse” always links to the latest version of your Chartreuse page
 - the word “Home” always links to the latest version of the Home (index) page
 
